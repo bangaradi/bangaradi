@@ -1,1 +1,5 @@
-# Hi, I'm Aditya Bangar 
+- 👋 Hi, I’m Aditya Bangar
+- 👀 I like writing code.
+- 🌱 I'm currently pursuing bachelor's in Computer Science at IIT Kanpur.
+- 💞️ I'd love to collaborate on projects that suit my interests :)
+- 📫 You can reach me through my mail- bangaraditya27@gmail.com
